@@ -41,6 +41,10 @@ apt update && apt upgrade -y
 pkg install git python coreutils -y
 pip install requests bs4 rich mechanize cython setuptools wheel httpx pycurl aiohttp
 
+## 📊 **Download Stats**
+
+![Download Badge](https://komarev.com/ghpvc/?username=your-github-username&label=Total+Downloads)
+
 
 # Run The Fire
 git clone --depth=1 [https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git](https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git)
