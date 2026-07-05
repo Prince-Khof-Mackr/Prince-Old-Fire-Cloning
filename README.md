@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prince-Khof-Mackr&label=PROFILE+VIEWS&color=9D00FF&style=for-the-badge" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Prince-Khof-Mackr&label=VIEWS&color=9D00FF&style=for-the-badge" alt="Views"/>
 </p>
 
 # 😈 𝖯𝖱𝖨𝖭𝖢𝖤-𝖮𝖫𝖣-𝖥𝖨𝖱𝖤-𝖢𝖫𝖮𝖭𝖨𝖭𝖦 😈
