@@ -50,14 +50,3 @@ pip install requests bs4 rich mechanize cython setuptools wheel httpx pycurl aio
 git clone --depth=1 [https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git](https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git)
 cd Prince-Old-Fire-Cloning
 python run.py
-
-
-
-
-
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prince-Khof-Mackr&label=VISITORS&color=red&style=for-the-badge" />
-</p>
