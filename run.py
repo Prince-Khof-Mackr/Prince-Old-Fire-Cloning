@@ -43,7 +43,7 @@ def setup():
     except ImportError as e:
         print(f"\n\033[1;91m[!] Error: kingprince.so load nahi ho payi!")
         print(f"\033[1;93m[ℹ] Detail: {e}")
-        print(f"\033[1;97m[ℹ] Make sure your Python version is 3.13 (Current: {curr_ver})\033[0m")
+        print(f"\033[1;97m[ℹ] Make sure your Python version is 3.14 (Current: {curr_ver})\033[0m")
     except Exception as e:
         print(f"\n\033[1;91m[!] Script Error: {e}\033[0m")
 
